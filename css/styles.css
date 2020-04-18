@@ -1,15 +1,72 @@
-.bg
-{
-	background-color: #71c9ce;
-}
-.body_margin
+.body
 {   margin-top: 0px;
     margin-bottom: 0px;
     margin-right: 0px;
     margin-left: 0px;
+    font-family: 'Tillana', cursive;
+    
 }
-.h1_margin
+
+.div1
 {
-	margin-bottom: 0px;
-	margin-top: 0px;
+	background-color: #e3fdfd;
+	padding-top: 40px;
+	text-align: center;
+	padding: 20px;
+}
+.developer
+{
+	width: 400px;
+}
+.fire
+{
+    width: 300px;
+}
+.div2
+{
+	text-align: center;
+	
+}
+.div3
+{
+	
+	text-align: center;
+}
+.skills
+{
+	padding: 20px;
+}
+.skill-row
+{
+	padding: 20px;
+}
+.profile
+{
+	padding: 20px;
+	margin: 20px;
+}
+.dp
+{
+	border-radius: 100%;
+	width: 200px;
+	height: 210px;
+}
+.div1 img:nth-child(1)
+{
+	position: relative;
+	left: 300px;
+}
+#cloud2
+{
+	position: absolute;
+	top:200px;
+	left:200px;
+}
+#mountain
+{
+	position: relative;
+}
+.h1
+{
+	font-family: 'Sacramento', cursive;
 }
